@@ -22,7 +22,7 @@ int main()
 
 }
 
-//kısım2
+//kısım2 son
 
 #include <stdio.h>
 
